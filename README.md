@@ -1,1 +1,1 @@
-# Supermarket-Inventory-management-system
+# Smart Stock Management & Prediction System
